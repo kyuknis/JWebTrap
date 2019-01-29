@@ -3,4 +3,4 @@ Logs all requests to a unique file.
 
 ## Use Cases
 
-1. When testing a Tomcat configuration
+1. Testing a Tomcat configuration
